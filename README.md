@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Book Library
 
-Currently, two official plugins are available:
+Book Library is a React application that allows users to browse books by category using the Open Library API. Users can filter books based on category and view book details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+
+1.Browse books from different categories (Science, Architecture, History, Fantasy, etc.).
+
+2.View book details, including cover images and authors.
+
+3.Uses the Open Library API for fetching book data.
+
+Technologies Used
+
+React.js
+
+React Router
+
+Open Library API
+
+CSS (for styling)
+
+Font Awesome (for icons)
